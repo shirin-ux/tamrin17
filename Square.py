@@ -1,3 +1,6 @@
-a=int(input("inter a:"))
-print(a**2)
-print(a**3)
+import math
+a = int(input("inter a:"))
+print(a*a)
+print(a*a*a)
+print(math.sqrt(a))
+
